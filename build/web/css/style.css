@@ -1,0 +1,37 @@
+#header{
+    background-color:black;
+    color: #ff3366;
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.menu{
+    background-color:black;
+    color:#ff3366;
+    font-size: 20px;
+    font-family: serif;
+}
+
+.log{
+   
+width:30%;
+text-align: center;
+    float:left;
+    height:500px;
+    background-color:black;
+color:#ff3366;
+}
+.mySlides
+            {
+                float:left;
+                display:none;
+                width:70%;
+                height:500px;
+            }
+.rf{
+    background-color:  black;
+    color: #ff3366;
+    height:500px;
+                
+            }            
+
